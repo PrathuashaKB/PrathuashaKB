@@ -72,5 +72,11 @@ I'm passionate about using technology, problem-solving, and creativity to build 
 ![NLTK](https://img.shields.io/badge/-NLTK-000000?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-000000?style=flat-square&logo=python&logoColor=white)
 
+##### MOTTO
 
+> When your work speaks for itself, don't interrupt. - Henry J. Kaiser
 
+<a href="https://prathuashakb.github.io/" target="_blank"><img src="https://github.com/PrathuashaKB/PrathuashaKB/blob/main/icons/www.png" alt="Portfolio" width="30"></a>
+<a href="mailto: prathuasharao2017@gmail.com" target="_blank"><img src="https://github.com/PrathuashaKB/PrathuashaKB/blob/main/icons/mail.jpg" alt="Mail" width="28"></a>
+<a href="https://www.linkedin.com/in/prathuasha-k-b-2k2/" target="_blank"><img src="https://github.com/PrathuashaKB/PrathuashaKB/blob/main/icons/in.png" alt="LinkedIn" width="30"></a>
+<a href="https://github.com/PrathuashaKB" target="_blank"><img src="https://github.com/PrathuashaKB/PrathuashaKB/blob/main/icons/git.png" alt="GitHub" width="30"></a>
