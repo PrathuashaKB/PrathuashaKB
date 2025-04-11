@@ -80,3 +80,5 @@ I'm passionate about using technology, problem-solving, and creativity to build 
 <a href="mailto: prathuasharao2017@gmail.com" target="_blank"><img src="https://github.com/PrathuashaKB/PrathuashaKB/blob/main/icons/mail.png" alt="Mail" width="28"></a>
 <a href="https://www.linkedin.com/in/prathuasha-k-b-2k2/" target="_blank"><img src="https://github.com/PrathuashaKB/PrathuashaKB/blob/main/icons/in.png" alt="LinkedIn" width="30"></a>
 <a href="https://github.com/PrathuashaKB" target="_blank"><img src="https://github.com/PrathuashaKB/PrathuashaKB/blob/main/icons/git.png" alt="GitHub" width="30"></a>
+<a href="https://x.com/PrathuashaKB" target="_blank"><img src="https://github.com/PrathuashaKB/PrathuashaKB/blob/main/icons/tw.png" alt="Twitter" width="30"></a>
+
