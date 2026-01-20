@@ -1,6 +1,6 @@
 ## Hi, I’m Prathuasha!
 
-Hi there! I’m a **Computer Science** graduate at **Sri Siddharatha Institute of Technology**, driven by a passion for turning data into impactful solutions. Currently **interning** in Data Science at **DataMites**, I’m honing my skills in <ins>machine learning</ins>, <ins>analytics</ins>, and <ins>visualization</ins> while actively exploring opportunities to apply AI in solving real-world challenges and uncovering meaningful insights.
+Hi there! I’m a **Computer Science** graduate with a strong foundation in Data Science, Machine Learning, and Artificial Intelligence. Currently pursuing my **M.Sc.** in **Data Science** at **TU Dortmund University(2025–2027)**, I’m passionate about transforming data into impactful, real-world solutions. My interests span <ins>AI</ins>, <ins>Data science</ins>, <ins>Machine learning</ins>, <ins>Data analytics</ins>, and <ins>Data visualization</ins>,while actively exploring opportunities to apply AI in solving real-world challenges and uncovering meaningful insights.
 
 I’ve worked on a range of impactful projects across machine learning, data analytics, and AI applications, developing strong skills in <ins>Python</ins>, <ins>SQL</ins>, <ins>Power BI</ins>, <ins>Tableau</ins>, and <ins>core ML techniques</ins> through hands-on training and real-world experience.
 <details>
@@ -28,7 +28,7 @@ I’ve worked on a range of impactful projects across machine learning, data ana
 
 </details>
 
-I'm passionate about using technology, problem-solving, and creativity to build solutions that make a meaningful impact. My current interests lie in <ins>data-centric AI </ins>,  <ins>predictive analytics </ins>, and  <ins>intelligent systems—exploring </ins> how data can be leveraged to drive smarter decisions and real-world innovation. I’m actively seeking global opportunities in **`Data Science`** and **`AI`** to contribute to forward-thinking, impactful projects.
+I'm passionate about using technology, problem-solving, and creativity to build solutions that make a meaningful impact. My current interests lie in <ins>data-centric AI </ins>,  <ins>predictive analytics </ins>, and  <ins>intelligent systems</ins>—exploring how data can be leveraged to drive smarter decisions and real-world innovation. I’m actively seeking global opportunities in **`Data Science`** and **`AI`** to contribute to forward-thinking, impactful projects.
 
 #### Technologies I've been learning and using so far :
  - Programming languages :
@@ -44,10 +44,12 @@ I'm passionate about using technology, problem-solving, and creativity to build 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat-square&logo=bootstrap&logoColor=7952B3)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat-square&logo=jquery&logoColor=0769AD)
 
- - WebFrameworks :
+ - WebFrameworks & AI Technologies:
 ![Streamlit](https://img.shields.io/badge/-Streamlit-000000?style=flat-square&logo=streamlit&logoColor=FF4B4B)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=ffffff)
 ![Hugging Face](https://img.shields.io/badge/-HuggingFace-000000?style=flat-square&logo=huggingface&logoColor=FFD21F)
+![LLMs](https://img.shields.io/badge/-LLMs-000000?style=flat-square&logo=openai&logoColor=white)
+![Generative AI](https://img.shields.io/badge/-Generative%20AI-000000?style=flat-square&logo=openai&logoColor=white)
 
  - Databases & Cloud Platforms :
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1)
