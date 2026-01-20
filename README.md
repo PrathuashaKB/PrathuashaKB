@@ -4,7 +4,7 @@ Hi there! I’m a **Computer Science** graduate at **Sri Siddharatha Institute o
 
 I’ve worked on a range of impactful projects across machine learning, data analytics, and AI applications, developing strong skills in <ins>Python</ins>, <ins>SQL</ins>, <ins>Power BI</ins>, <ins>Tableau</ins>, and <ins>core ML techniques</ins> through hands-on training and real-world experience.
 <details>
-  <summary><i> &nbsp;Browse through my projects that reflect my journey through data, design, and intelligent systems. </i>👀 </summary>
+  <summary><i> &nbsp;Browse through my projects that reflect my journey through data, design, and intelligent systems. </i> </summary>👀
 
   <br />
   <p>
